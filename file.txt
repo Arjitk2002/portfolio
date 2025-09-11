@@ -1,1 +1,10 @@
 
+Updates to be made in the portfolio before deploying againg to github are:
+1. Resume
+    Work Experience
+2.Certificates/Achievements page
+3.Update the homepage/About Page
+4.Rename Portfolio page to Projects
+5.Add more links to my blogs
+6.In the contact page map, Tag TCS Pune
+7.See if the email form can work somehow or not.
